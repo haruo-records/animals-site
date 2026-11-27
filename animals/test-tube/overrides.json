@@ -1,8 +1,17 @@
 {
   "_comment": "organize_animals.py の再実行で上書きされない、手書きの補足情報。slug ごとに aka（別名）・alt（画像の説明文）・note（短い一文）を任意で追加できる。",
-  "Felay":      { "aka": "Feel All Ray" },
-  "Felay_gif":  { "aka": "Feel All Ray" },
-  "Felay_book": { "aka": "Feel All Ray" },
-  "Felay_box":  { "aka": "Feel All Ray" },
-  "Felay_room": { "aka": "Feel All Ray" }
+  "Felay":      { "aka": "Feel All Ray", "alt": "Felay (Feel All Ray) — white hands reaching out in every direction across a red panel, by HARUO, 2007" },
+  "Felay_gif":  { "aka": "Feel All Ray", "alt": "Felay (Feel All Ray) — a bent white form with red, hand-like shapes, by HARUO, 2007" },
+  "Felay_book": { "aka": "Feel All Ray", "alt": "Felay (Feel All Ray) — a small black book opened to red drawings of reaching forms, by HARUO, 2007" },
+  "Felay_box":  { "aka": "Feel All Ray", "alt": "Felay (Feel All Ray) — a wooden box holding a red panel of reaching hands, by HARUO, 2007" },
+  "Felay_room": { "aka": "Feel All Ray", "alt": "Felay (Feel All Ray) — an exhibition room covered in red panels of white reaching hands, by HARUO, 2007" },
+  "voltfoot":   { "alt": "voltfoot — a small creature made of pegs and rods, drawn in six poses: standing, walking, saying '……', lying down; hand-drawn by HARUO, 1998" },
+  "connection100": { "alt": "connection100 — a cable-like creature stretching across the page until its plug, far away, only says '……'; hand-drawn by HARUO, 1998" },
+  "chocodoubt_1998": { "alt": "chocodoubt — one small chocolate-like block multiplying, frame by frame, into a crowd; hand-drawn by HARUO, 1998" },
+  "toiletcrisis": { "alt": "toilet crisis — a toilet roll that says '……', stretches tall, cracks into pieces and falls apart; hand-drawn by HARUO, 2016" },
+  "byebird":    { "alt": "bye bird — two cymbal-like discs on a tube spin, then stop and both say '……'; hand-drawn by HARUO, 2016" },
+  "thiskiss":   { "alt": "this kiss — two soft shapes rise out of a red cap, saying '……', and later a puff rises from it; hand-drawn by HARUO, 2016" },
+  "pianotrio":  { "alt": "piano trio — a box with three small hammers hanging underneath that swing, then pull back inside; hand-drawn by HARUO, 2016" },
+  "breaker":    { "alt": "beat breaker, heart breaker, pattern breaker — rounded paddle-shaped bodies tumbling over one another; hand-drawn by HARUO, 2016" },
+  "bottleofblues": { "alt": "bottle of blues — two white sculpted forms in relief on dark blue textured paint, each with a small speech mark; by HARUO, 2005" }
 }
