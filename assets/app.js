@@ -6,8 +6,8 @@
 /* ── works.json fetch ──
  *
  * GitHub Pages project site では URL に /archive/ プレフィックスが付く:
- *   https://haruo-records.github.io/archive/
- *   https://haruo-records.github.io/archive/archive/
+ *   https://haruo-records.github.io/animals-site/
+ *   https://haruo-records.github.io/animals-site/archive/
  *
  * data/works.json は常に「サイトのルートディレクトリ（=リポジトリルート）」にある。
  * つまり /archive/data/works.json に相当する。

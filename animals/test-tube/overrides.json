@@ -1,0 +1,8 @@
+{
+  "_comment": "organize_animals.py の再実行で上書きされない、手書きの補足情報。slug ごとに aka（別名）・alt（画像の説明文）・note（短い一文）を任意で追加できる。",
+  "Felay":      { "aka": "Feel All Ray" },
+  "Felay_gif":  { "aka": "Feel All Ray" },
+  "Felay_book": { "aka": "Feel All Ray" },
+  "Felay_box":  { "aka": "Feel All Ray" },
+  "Felay_room": { "aka": "Feel All Ray" }
+}

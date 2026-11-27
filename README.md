@@ -62,3 +62,15 @@ portal/
   { "label": "note",    "url": "https://note.com/..." }
 ]
 ```
+
+## 検索エンジン・SNS向けの静的ページ（works/）
+
+作品を追加・変更したら、`organize_animals.py` の後にリポジトリ直下で実行する:
+
+```
+python3 tools/build_static.py
+```
+
+- `works/<作品名>/` に作品ごとのページ（画像の説明文・OGP・構造化データ付き）を書き出す
+- `works/` に全作品一覧、`sitemap.xml` に画像付きサイトマップを書き出す
+- 別名・画像の説明文・短い一文は `animals/test-tube/overrides.json` に書く（再生成で消えない）
